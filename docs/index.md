@@ -1,7 +1,7 @@
-# Welcome to Podman Notes.
+# Welcome to Podman Notes
 
-For full documentation visit [Podman Documentation Page](https://podman.io/docs).
+Welcome to the Podman notes, your resource for learning about Podman. For complete and official documentation, visit the [Podman Documentation Page](https://podman.io/docs).
 
-## List of Contents
+1. **[Quick Guide](quick_guide.md)**: Start with a concise guide to understanding Podman’s features, commands, and usage. This section offers an overview to help you get up to speed with Podman’s container management capabilities.
 
-1. [Quick Guide](quick_guide.md)
+Explore the guide to get a grasp of Podman and how it can be used as an alternative to other container tools!
