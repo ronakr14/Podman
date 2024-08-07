@@ -31,6 +31,7 @@ plugins:
   - mkdocstrings
 
 nav:
+  - Containers Home: https://ronakr14.github.io/Containers/
   - Podman Home: index.md
   - Quick Guide: quick_guide.md
 
